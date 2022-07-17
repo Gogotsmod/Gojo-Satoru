@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94763427338']
-global.premium = ['94763427338']
-global.ownernomer = '94763427338'
-global.ownername = 'νιнαηgα м∂🧚'
-global.botname = 'νιнαηgα м∂🧚'
-global.footer = 'νιнαηgα м∂🧚.'
-global.ig = 'https://github.com/vihangaabot'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/vihangabot/Gojo-Satoru'
-global.myweb = 'https://youtu.be/Z9rIR0Vopb8'
-global.packname = 'Gojo-Satoru'
-global.author = 'νιнαηgα м∂🧚'
+global.owner = ['6281223163244','6281543253766']
+global.premium = ['6281223163244','6281543253766']
+global.ownernomer = '6281223163244','6281543253766'
+global.ownername = ''
+global.botname = '⚠️ Hangga ⚠️'
+global.footer = '⚠️ Hangga ⚠️.'
+global.ig = 'https://chat.whatsapp.com/Cpq49T4PuDj3eHGrbJ9Qxa'
+global.region = 'Indonesia,jawa barat'
+global.sc = 'https://chat.whatsapp.com/Cpq49T4PuDj3eHGrbJ9Qxa'
+global.myweb = 'https://chat.whatsapp.com/Cpq49T4PuDj3eHGrbJ9Qxa'
+global.packname = 'MEHANG'
+global.author = 'Gogots bot'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🧚'
